@@ -16,15 +16,8 @@ i'm a cybersec and bug bounty student. Just working in some projects to help som
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 [![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sql&logoColor=white)](#)
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](#)
-[![Hydra](https://img.shields.io/badge/Hydra-3C2179?style=for-the-badge&logo=hydra&logoColor=white)](#)
-[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-FF0000?style=for-the-badge&logo=john-the-ripper&logoColor=white)](#)
-[![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-00C7D4?style=for-the-badge&logo=aircrack-ng&logoColor=white)](#)
-[![Maltego](https://img.shields.io/badge/Maltego-2C3454?style=for-the-badge&logo=maltego&logoColor=white)](#)
 [![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](#)
-[![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)](#)
-[![Nikto](https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logo=nikto&logoColor=white)](#)
-[![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
-[![Dirb](https://img.shields.io/badge/Dirb-000000?style=for-the-badge&logo=dirb&logoColor=white)](#)
+
 
 ### Penetration Testing:
 
