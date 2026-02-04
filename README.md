@@ -1,6 +1,6 @@
 Name's Henji
 ##
-i'm a cybersec and bug bounty student. Just working in some projects to help some people.
+i'm a cybersec professional and bug bounty hunter. Just working in some projects to help some people.
 #
 # Knowledge & Skills
 
