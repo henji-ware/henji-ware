@@ -1,36 +1,13 @@
-<div align="center">
+Name's H3nj1
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=HENJI-WARE&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20SYS.ADMIN_ACCESS_GRANTED%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descAlignY=55&descSize=18" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Initializing+cyber_defense.sh...;%3E+AI_Subsystem_+Loaded.;%3E+Encrypting+payloads...;%3E+We+are+the+ghosts+in+the+machine." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-SECURE-000000?style=for-the-badge&logo=statuspage&logoColor=00ff41&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-000000?style=for-the-badge&logo=hackaday&logoColor=00ff41&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AI-ACTIVE-000000?style=for-the-badge&logo=openai&logoColor=00ff41&labelColor=0d1117" />
-
-</div>
+Just doing some things to help some people.
 
 ---
 
 ## `> whoami`
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRmeHJ3emxpdWp0NWRqam92ajNpdWhuZm92bTBueDF5dnhmOHhxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" alt="Hacker Terminal GIF"/>
-
-```yaml
-name: henji-ware
-role: Cybersecurity Analyst
-location: Brazil
-clearance: Top Secret // SCI
-status: Actively hunting threats
-```
-
-Analista de cibersegurança com mentalidade **ofensiva e defensiva**, fluente nas linguagens de programação mais utilizadas do mercado e com expertise em **Inteligência Artificial aplicada à segurança**. Transformo linhas de código em escudos digitais e uso IA para prever, detectar e neutralizar ameaças antes que elas aconteçam.
+Analista de cibersegurança **ofensiva e defensiva**, fluente nas linguagens de programação mais utilizadas do mercado e com expertise em **Inteligência Artificial aplicada à segurança**. Transformo linhas de código em algo útil para meu trabalho.
 
 <br clear="right"/>
 
@@ -164,28 +141,6 @@ Analista de cibersegurança com mentalidade **ofensiva e defensiva**, fluente na
 
 ---
 
-## `> cat /var/log/threat_matrix.log`
-
-<div align="center">
-<pre style="color: #00ff41; background-color: #0d1117;">
-+-------------------------------------------------------------------------+
-|                        THREAT INTELLIGENCE MATRIX                       |
-+-------------------------------------------------------------------------+
-|                                                                         |
-|  Network Security      [##################..]  95%   SYS.OK             |
-|  Web App Security      [#################...]  90%   SYS.OK             |
-|  Malware Analysis      [################....]  85%   MONITORING         |
-|  AI/ML Security        [##################..]  92%   SYS.OK             |
-|  Cloud Security        [#################...]  88%   MONITORING         |
-|  Reverse Engineering   [##################..]  93%   SYS.OK             |
-|  Cryptography          [###############.....]  80%   ENCRYPTING         |
-|  Social Engineering    [#################...]  87%   MONITORING         |
-|                                                                         |
-+-------------------------------------------------------------------------+
-</pre>
-</div>
-
----
 
 ## `> systemctl status github-stats`
 
@@ -197,38 +152,3 @@ Analista de cibersegurança com mentalidade **ofensiva e defensiva**, fluente na
 
 ---
 
-## `> gpg --decrypt message.pgp`
-
-<div align="center">
-
-```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗     ██████╗ ██████╗ ██████╗ ███████╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗   ██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝   ██║     ██║   ██║██║  ██║█████╗  
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗   ██║     ██║   ██║██║  ██║██╔══╝  
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║   ╚██████╗╚██████╔╝██████╔╝███████╗
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-
-        "The quieter you become, the more you are able to hear."
-                                                    — Kali Linux
-```
-
-</div>
-
----
-
-<div align="center">
-
-<h3>📡 Connect with me</h3>
-
-<a href="https://linkedin.com/in/henji-ware"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
-
-<br/><br/>
-
-<img src="https://api.visitorbadge.io/api/visitors?path=henji-ware&label=SYS.INTRUSIONS&labelColor=0d1117&countColor=00ff41&style=for-the-badge" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer" />
-
-</div>
