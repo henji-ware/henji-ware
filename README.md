@@ -7,7 +7,7 @@ Just doing some things to help some people.
 
 ## `> whoami`
 
-Analista de cibersegurança **ofensiva e defensiva**, fluente nas linguagens de programação mais utilizadas do mercado e com expertise em **Inteligência Artificial aplicada à segurança**. Transformo linhas de código em algo útil para meu trabalho.
+Offensive and defensive cybersecurity analyst, fluent in the most used programming languages on the market and with expertise in Artificial Intelligence applied to security. I turn lines of code into something useful for my work.
 
 <br clear="right"/>
 
