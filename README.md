@@ -2,33 +2,65 @@
 
 Just doing some things to help some people.
 
-![Terminal que digita um comando e revela a frase acima em hexadecimal.](./assets/h3nj1.svg)
+![Onda animada de caracteres binários e hexadecimais em preto sobre fundo branco.](./assets/h3nj1.svg)
+
+## `> whoami`
+
+Sou analista de segurança ofensiva e defensiva. Escrevo ferramentas para automatizar tarefas de análise e investigo como aplicações, binários e redes se comportam.
 
 ## `> linguagens`
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/c/c-original.svg" width="38" height="38" alt="C" title="C">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" title="C++">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/java/java-original.svg" width="38" height="38" alt="Java" title="Java">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#" title="C#">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/go/go-original-wordmark.svg" width="38" height="38" alt="Go" title="Go">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/rust/rust-original.svg" width="38" height="38" alt="Rust" title="Rust">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ruby/ruby-original.svg" width="38" height="38" alt="Ruby" title="Ruby">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="38" height="38" alt="PHP" title="PHP">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg" width="38" height="38" alt="SQL (MySQL)" title="SQL (MySQL)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" title="Bash">
-</p>
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="46" height="46" alt=""><br><strong>Python</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="46" height="46" alt=""><br><strong>JavaScript</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="46" height="46" alt=""><br><strong>TypeScript</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="46" height="46" alt=""><br><strong>C / C++</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="46" height="46" alt=""><br><strong>Java</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="46" height="46" alt=""><br><strong>C#</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="46" height="46" alt=""><br><strong>Go</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="46" height="46" alt=""><br><strong>Rust</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="46" height="46" alt=""><br><strong>Ruby</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="46" height="46" alt=""><br><strong>PHP</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="46" height="46" alt=""><br><strong>SQL</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="46" height="46" alt=""><br><strong>Bash</strong></td>
+  </tr>
+</table>
 
 ## `> hacking`
 
-Trabalho com segurança ofensiva e defensiva. Uso o **Nmap** para mapear serviços, o **Burp Suite** para investigar aplicações web e o **Ghidra** para entender como um binário funciona. Na análise de incidentes, recorro ao **Wireshark** para acompanhar o tráfego pacote a pacote.
+### Segurança ofensiva
+
+- **Pentest e bug bounty** · Analiso aplicações web, com atenção a autenticação, controle de acesso e lógica de negócio.
+- **Reconhecimento e OSINT** · Reúno informações públicas para entender a superfície de ataque e organizar o escopo da análise.
+
+### Engenharia reversa
+
+- **Análise de binários** · Uso o Ghidra para acompanhar o fluxo do programa e entender o que ele faz quando o código-fonte não está disponível.
+
+### Segurança defensiva
+
+- **SOC e threat hunting** · Cruzo alertas, logs e tráfego de rede para investigar atividades suspeitas.
+- **Resposta a incidentes e forense digital** · Organizo evidências e reconstruo a sequência de eventos para entender o impacto.
+
+## `> ferramentas`
+
+**Testes e reconhecimento**
 
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-191919?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Burp_Suite-191919?style=flat-square&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Wireshark-191919?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Metasploit-191919?style=flat-square&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Kali_Linux-202020?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Burp_Suite-202020?style=flat-square&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Nmap-202020?style=flat-square" alt="Nmap">
+  <img src="https://img.shields.io/badge/Metasploit-202020?style=flat-square&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit">
+</p>
+
+**Análise de binários e tráfego**
+
+<p>
+  <img src="https://img.shields.io/badge/Ghidra-202020?style=flat-square" alt="Ghidra">
+  <img src="https://img.shields.io/badge/Wireshark-202020?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
 </p>
