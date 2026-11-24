@@ -53,36 +53,36 @@ I'm an offensive and defensive security analyst. I write tools to automate analy
 
 <h3 align="center">Web &amp; API Testing</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-202020?style=flat-square&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/ZAP-202020?style=flat-square" alt="ZAP">
-  <img src="https://img.shields.io/badge/Postman-202020?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/mitmproxy-202020?style=flat-square" alt="mitmproxy">
-  <img src="https://img.shields.io/badge/Nikto-202020?style=flat-square" alt="Nikto">
+  <code>Burp&nbsp;Suite</code>
+  <code>ZAP</code>
+  <code>Postman</code>
+  <code>mitmproxy</code>
+  <code>Nikto</code>
 </p>
 
 <h3 align="center">Network &amp; Service Testing</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-202020?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Nmap-202020?style=flat-square" alt="Nmap">
-  <img src="https://img.shields.io/badge/OpenVAS-202020?style=flat-square" alt="OpenVAS">
-  <img src="https://img.shields.io/badge/testssl.sh-202020?style=flat-square" alt="testssl.sh">
-  <img src="https://img.shields.io/badge/SSLyze-202020?style=flat-square" alt="SSLyze">
-  <img src="https://img.shields.io/badge/Metasploit-202020?style=flat-square&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit">
+  <code>Kali&nbsp;Linux</code>
+  <code>Nmap</code>
+  <code>OpenVAS</code>
+  <code>testssl.sh</code>
+  <code>SSLyze</code>
+  <code>Metasploit</code>
 </p>
 
 <h3 align="center">Reconnaissance &amp; OSINT</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Amass-202020?style=flat-square" alt="Amass">
-  <img src="https://img.shields.io/badge/theHarvester-202020?style=flat-square" alt="theHarvester">
-  <img src="https://img.shields.io/badge/DNSRecon-202020?style=flat-square" alt="DNSRecon">
-  <img src="https://img.shields.io/badge/Shodan-202020?style=flat-square" alt="Shodan">
+  <code>Amass</code>
+  <code>theHarvester</code>
+  <code>DNSRecon</code>
+  <code>Shodan</code>
 </p>
 
 <h3 align="center">Reverse Engineering &amp; Traffic Analysis</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-202020?style=flat-square" alt="Ghidra">
-  <img src="https://img.shields.io/badge/Cutter-202020?style=flat-square" alt="Cutter">
-  <img src="https://img.shields.io/badge/x64dbg-202020?style=flat-square" alt="x64dbg">
-  <img src="https://img.shields.io/badge/Wireshark-202020?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/tcpdump-202020?style=flat-square" alt="tcpdump">
+  <code>Ghidra</code>
+  <code>Cutter</code>
+  <code>x64dbg</code>
+  <code>Wireshark</code>
+  <code>tcpdump</code>
 </p>
