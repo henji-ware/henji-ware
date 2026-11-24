@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 202" width="900" height="202" role="img" aria-labelledby="title desc">
-  <title id="title">Onda de caracteres</title>
-  <desc id="desc">Caracteres binários e hexadecimais em preto formam uma onda em movimento sobre fundo branco.</desc>
+  <title id="title">Character wave</title>
+  <desc id="desc">Black binary and hexadecimal characters form a moving wave on a white background.</desc>
   <style>
     .column {
       animation: wave 5.4s ease-in-out infinite;
