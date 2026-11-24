@@ -12,21 +12,21 @@ Sou analista de segurança ofensiva e defensiva. Escrevo ferramentas para automa
 
 <table>
   <tr>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="46" height="46" alt=""><br><strong>Python</strong></td>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="46" height="46" alt=""><br><strong>JavaScript</strong></td>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="46" height="46" alt=""><br><strong>TypeScript</strong></td>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="46" height="46" alt=""><br><strong>C / C++</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/python-icon.svg" width="46" height="46" alt=""><br><strong>Python</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/js-icon.svg" width="46" height="46" alt=""><br><strong>JavaScript</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/ts-icon.svg" width="46" height="46" alt=""><br><strong>TypeScript</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/cpp-icon.svg" width="46" height="46" alt=""><br><strong>C / C++</strong></td>
   </tr>
   <tr>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="46" height="46" alt=""><br><strong>Java</strong></td>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="46" height="46" alt=""><br><strong>C#</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/java-icon.svg" width="46" height="46" alt=""><br><strong>Java</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/csharp-icon.svg" width="46" height="46" alt=""><br><strong>C#</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="46" height="46" alt=""><br><strong>Go</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="46" height="46" alt=""><br><strong>Rust</strong></td>
   </tr>
   <tr>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="46" height="46" alt=""><br><strong>Ruby</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="46" height="46" alt=""><br><strong>PHP</strong></td>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="46" height="46" alt=""><br><strong>SQL</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/mysql-icon.svg" width="46" height="46" alt=""><br><strong>SQL</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="46" height="46" alt=""><br><strong>Bash</strong></td>
   </tr>
 </table>
